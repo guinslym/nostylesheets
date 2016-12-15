@@ -1,0 +1,15 @@
+{
+  "name": "nostylesheets",
+  "version": "1.0.0",
+  "description": "Check if the Stylesheets have been disable",
+  "main": "nostylesheets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylesheets",
+    "javascript"
+  ],
+  "author": "Guinsly Mondesir",
+  "license": "MIT"
+}
